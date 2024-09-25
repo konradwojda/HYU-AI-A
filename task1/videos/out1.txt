@@ -1,0 +1,25 @@
+(.venv) konradwojda@konradwojda-comp:~/studia/ai-hyu/task1$ python3 exercise-lunar-lander-rl.py 
+cpu
+Training...
+10000step [08:43, 19.15step/s]--- Global steps 40000 ---                                                                                                                                          
+Steps [10000, 10000, 10000, 10000]
+Scores: [-172.4507118637459, -356.7711600755626, -122.71960704067824, -466.73038124953706]
+Fitnesses: ['-182.12', '-178.47', '-195.93', '-168.15']
+5 fitness avgs: ['-182.12', '-178.47', '-195.93', '-168.15']
+10000step [08:45, 19.04step/s]
+terminated
+--------------- Episode: 0 ---------------
+Episodic Reward:  -132.1481793920434
+terminated
+--------------- Episode: 1 ---------------
+Episodic Reward:  -139.913405195128
+terminated
+--------------- Episode: 2 ---------------
+Episodic Reward:  -78.55908709903858
+terminated
+--------------- Episode: 3 ---------------
+Episodic Reward:  -190.73791231921734
+terminated
+--------------- Episode: 4 ---------------
+Episodic Reward:  -127.10188584933759
+[-132.1481793920434, -139.913405195128, -78.55908709903858, -190.73791231921734, -127.10188584933759]
