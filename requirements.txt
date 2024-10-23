@@ -3,3 +3,10 @@ torchvision==0.18.1
 agilerl
 imageio
 gymnasium[box2d]
+scipy
+matplotlib
+scikit-learn
+plotly
+seaborn
+tensorflow==2.15.0
+nibabel
